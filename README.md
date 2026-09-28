@@ -28,9 +28,9 @@ Estudante de Análise e Desenvolvimento de Sistemas no UniSenac e apaixonado por
   * *Descrição:* Ambiente Virtual de Aprendizagem (AVA) estruturado como MVP funcional. Atuação como Product Owner (PO) e desenvolvedor.
   * *Stack:* PHP, Python, JavaScript, HTML.
 
-* **[AcademiaBoxe](https://github.com/Mauricio-TW)**
+* **[AcademiaBoxe](https://github.com/Mauricio-TW/AcademiaBoxe-Portifolio)**
   * *Descrição:* Sistema web full-stack com foco em responsividade e experiência do usuário (mobile-first).
-
+    
 ---
 
 ### Como falar comigo
