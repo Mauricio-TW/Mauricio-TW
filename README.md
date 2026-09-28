@@ -30,6 +30,7 @@ Estudante de Análise e Desenvolvimento de Sistemas no UniSenac e apaixonado por
 
 * **[AcademiaBoxe](https://github.com/Mauricio-TW/AcademiaBoxe-Portifolio)**
   * *Descrição:* Sistema web full-stack com foco em responsividade e experiência do usuário (mobile-first).
+  * *Stack:* HTML, CSS, JavaScript, PHP.
     
 ---
 
