@@ -33,14 +33,6 @@ Estudante de Análise e Desenvolvimento de Sistemas no UniSenac e apaixonado por
 
 ---
 
-### Estatísticas do GitHub
-<p align="center">
-  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=Mauricio-TW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-TW&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### Como falar comigo
 * **LinkedIn:** [Mauricio Thum Welter](https://www.linkedin.com/in/mauricio-thum-welter-2096001b6/)
 * **E-mail:** mauriciothumwelter@gmail.com
