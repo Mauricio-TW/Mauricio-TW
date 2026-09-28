@@ -1,16 +1,47 @@
-## Hi there 👋
+### Olá! Sou o Mauricio Welter
 
-<!--
-**Mauricio-TW/Mauricio-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas no UniSenac e apaixonado por engenharia de software, arquitetura limpa e desenvolvimento full-stack. Atuo também com gestão de projetos e papel de Product Owner (PO), unindo a visão técnica de código com a entrega de valor para o negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack Tecnológica
+
+* **Linguagens:** PHP, Python, JavaScript, TypeScript
+* **Back-End:** NestJS, Clean Architecture, Domain-Driven Design (DDD), APIs RESTful
+* **Front-End & Mobile:** Next.js, React, HTML5, CSS3, Design Responsivo
+* **Banco de Dados:** PostgreSQL, Supabase, Modelagem Relacional
+* **Ferramentas & DevOps:** Git, GitHub, Docker, Render, Metodologias Ágeis, Gestão de Projetos (PO)
+
+---
+
+### Principais Projetos do Portfólio
+
+* **[FitTrack](https://github.com/douglasrodrigues528/fittrack-api)**
+  * *Descrição:* Plataforma full-stack de gerenciamento de treinos e acompanhamento de carga.
+  * *Stack:* NestJS, Next.js, PostgreSQL (JSONB), Clean Architecture.
+
+* **[StockMaster](https://github.com/r-schneider/fspoa-pd1/tree/main/frontend)**
+  * *Descrição:* Sistema web full-stack de controle de estoque e capital de giro para pequenos comércios.
+  * *Stack:* NestJS, Supabase, React, TypeScript, Render.
+
+* **[EduQ](https://github.com/marcos06k/Educ)**
+  * *Descrição:* Ambiente Virtual de Aprendizagem (AVA) estruturado como MVP funcional. Atuação como Product Owner (PO) e desenvolvedor.
+  * *Stack:* PHP, Python, JavaScript, HTML.
+
+* **[AcademiaBoxe](https://github.com/Mauricio-TW)**
+  * *Descrição:* Sistema web full-stack com foco em responsividade e experiência do usuário (mobile-first).
+
+---
+
+### Estatísticas do GitHub
+<p align="center">
+  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=Mauricio-TW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-TW&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Como falar comigo
+* **LinkedIn:** [Mauricio Thum Welter](https://www.linkedin.com/in/mauricio-thum-welter-2096001b6/)
+* **E-mail:** mauriciothumwelter@gmail.com
+* **GitHub:** [Mauricio-TW](https://github.com/Mauricio-TW)
